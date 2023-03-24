@@ -1,7 +1,7 @@
 {
-  "name": "t2",
+  "name": "t3e4",
   "version": "1.0.0",
-  "description": "Tarefa 2",
+  "description": "Tarefa 3 e 4",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
