@@ -1,9 +1,9 @@
 const calculadora = require("./operators");
 const validate = require("validate.js");
 
-var num1 = 10;
-var num2 = 5;
-var numFat = 6;
+let num1 = 10;
+let num2 = 5;
+let numFat = 6;
 
 function verifyNumbers() {
   if (!validate.isNumber(num1) || !validate.isNumber(num2) || !validate.isNumber(numFat)) {
@@ -13,7 +13,7 @@ function verifyNumbers() {
   return true;
 }
 
-var isNumbers = verifyNumbers();
+let isNumbers = verifyNumbers();
 
 if(isNumbers) {
     let soma = calculadora.somar(num1, num2);
