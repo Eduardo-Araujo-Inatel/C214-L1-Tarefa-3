@@ -1,4 +1,4 @@
-<h1 align="center">Tarefa 3</h1>
+<h1 align="center">Tarefa 3 e 4</h1>
 
 Operações de Soma, Subtração, Multiplicação, Divisão e Fatorial utilizando os numeros presentes nas variaveis `num1`, `num2` e `numFat`
 
