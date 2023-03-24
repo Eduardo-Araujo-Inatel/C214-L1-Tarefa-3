@@ -1,0 +1,12 @@
+{
+  "name": "t2",
+  "version": "1.0.0",
+  "description": "Tarefa 2",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "validate.js": "^0.13.1"
+  }
+}
